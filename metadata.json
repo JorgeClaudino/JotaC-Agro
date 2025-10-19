@@ -1,0 +1,7 @@
+{
+  "name": "JC Agro",
+  "description": "An AI-powered web application for agribusiness that delivers real-time news, commodity prices, weather updates, and agronomic insights for Brazilian and international agricultural stakeholders.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
